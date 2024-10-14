@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buscador de Media</string>
+    <string name="title_books">Libros</string>
+    <string name="title_movies">Peliculas</string>
+    <string name="title_series">Series</string>
+    <string name="txt_nothing_to_show">Nada para mostrar</string>
+    <string name="txt_not_results_found">No se encontraron resultados</string>
+    <string name="txt_pages">%1$s páginas</string>
+    <string name="txt_rating">(%1$s)</string>
+    <string name="text_copied_to_clipboard">Texto copiado a portapapeles</string>
+    <string name="txt_isbn">ISBN</string>
+    <string name="txt_loading">Cargando</string>
+    <string name="txt_total_results">%1$s resultados</string>
+    <string name="txt_production_details">Ficha Técnica</string>
+    <string name="txt_director">Director: %1$s</string>
+    <string name="txt_writers">Escritores: %1$s</string>
+    <string name="txt_awards">Premios: %1$s</string>
+    <string name="txt_language">Idioma: %1$s</string>
+    <string name="txt_boxOffice">Taquilla: %1$s</string>
+    <string name="txt_ratings">Calificaciones</string>
+    <string name="txt_seasons">%1$s temp.</string>
+</resources>

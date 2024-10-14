@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Media Searcher</string>
+    <string name="title_books">Books</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="txt_nothing_to_show">Nothing to show</string>
+    <string name="txt_not_results_found">No results found</string>
+    <string name="txt_pages">%1$s pages</string>
+    <string name="txt_rating">(%1$s)</string>
+    <string name="text_copied_to_clipboard">Text copied to clipboard</string>
+    <string name="txt_isbn">ISBN</string>
+    <string name="txt_loading">Loading</string>
+    <string name="txt_total_results">%1$s results</string>
+    <string name="txt_production_details">Production Details</string>
+    <string name="txt_director">Director: %1$s</string>
+    <string name="txt_writers">Writers: %1$s</string>
+    <string name="txt_awards">Awards: %1$s</string>
+    <string name="txt_language">Awards: %1$s</string>
+    <string name="txt_boxOffice">Box Office: %1$s</string>
+    <string name="txt_ratings">Ratings</string>
+    <string name="txt_seasons">%1$s seasons</string>
+</resources>
